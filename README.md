@@ -36,10 +36,9 @@ Application home page.
 <img src="static/images/home.png"/>
 
 An example of prediction on given sms message.
+<img src="static/images/spam-detec.gif"/>
 
-<video controls="controls">
-  <source type="video/mp4" src="static/images/spam-detec.mp4"></source>
-</video>
+
 
 ## TODO
 
