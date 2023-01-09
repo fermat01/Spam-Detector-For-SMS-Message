@@ -31,11 +31,9 @@ http://localhost:5000
 
 ```
 
-Application home page.
-
-<img src="static/images/home.png"/>
-
 An example of prediction on given sms message.
+
+
 <img src="static/images/spam-detec.gif"/>
 
 
