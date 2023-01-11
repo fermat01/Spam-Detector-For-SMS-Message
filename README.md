@@ -1,4 +1,11 @@
 # Spam-Detector-For-SMS-Message
+
+![GitHub](https://img.shields.io/github/license/fermat01/Spam-Detector-For-SMS-Message?style=flat)
+![GitHub top language](https://img.shields.io/github/languages/top/fermat01/Spam-Detector-For-SMS-Message?style=flat)
+![GitHub language count](https://img.shields.io/github/languages/count/fermat01/Spam-Detector-For-SMS-Message?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/fermat01/Spam-Detector-For-SMS-Message?style=flat)
+![ViewCount](https://views.whatilearened.today/views/github/fermat01/Spam-Detector-For-SMS-Message.svg?cache=remove)
+
 Building Flask API  to detect spam or ham message using Python and sklearn
 
 ## Overview
